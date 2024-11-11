@@ -26,6 +26,6 @@ frmStartGame.cs: Manages the main menu and allows players to select difficulty a
 Program.cs: The main entry point that initiates the application.
 Resources: Includes images for game elements such as correct/incorrect icons and a welcome screen.
 
-Video for the game
+# Video for the game
 
 https://github.com/user-attachments/assets/781ab7e2-f907-4861-b7a2-4c9ad5fecf0a
